@@ -158,15 +158,15 @@ Assisted Private Schools
 97\. Agreement establishing an assisted private schools
 98\. Publication of list of assisted private schools
 99\. Management of assisted private schools
-100.
+100\.
 
 Boards of Management for assisted private schools
 
-101.
+101\.
 
 Appointment of joint Board of Management
 
-102.
+102\.
 
 Functions of Board of Management
 
@@ -174,23 +174,23 @@ Functions of Board of Management
 
 TERTIARY EDUCATION
 
-103.
+103\.
 
 Establishment of public tertiary educational institution
 
-104.
+104\.
 
 Management of public tertiary educational institution
 
-105.
+105\.
 
 Technical and vocational education and training
 
-106.
+106\.
 
 Teachers’ colleges
 
-107.
+107\.
 
 Saving for Saint Vincent and the Grenadines Community College
 
@@ -200,53 +200,53 @@ OTHER TYPES OF EDUCATION
 Division 1
 Early Childhood Education
 
-108.
+108\.
 
 Provision of early childhood education services
 
-109.
+109\.
 
 Council on Early Childhood Education
 
-110.
+110\.
 
 Regulations
 
-111.
+111\.
 
 Programmes and policies
 Division 2
 Home Education
 
-112.
+112\.
 
 Home education programmes
 Division 3
 Special Education
 
-113.
+113\.
 
 Special education programmes
 
-114.
+114\.
 
 Determination of special educational needs
 
-115.
+115\.
 
 Special needs appeals
 
-116.
+116\.
 
 Council on Special Education
 Division 4
 Distance Learning and Continuing Education
 
-117.
+117\.
 
 Distance learning
 
-118.
+118\.
 
 Continuing education
 
@@ -256,99 +256,99 @@ TEACHERS - GENERAL
 Division 1
 Employment of Teachers
 
-119.
+119\.
 
 Employment of teachers
 
-120.
+120\.
 
 Qualifications of teachers
 
-121.
+121\.
 
 Requirements for employment as a public teacher
 
-122.
+122\.
 
 Transfer Register
 
-123.
+123\.
 
 Publication of Teachers Register
 
-124.
+124\.
 
 Eligibility fo r appointment as teacher
 
-125.
+125\.
 
 Application for registration as teacher
 
-126.
+126\.
 
 Appointment of teachers
 
-127.
+127\.
 
 Transfer of teachers
 
-128.
+128\.
 
 Rights of teachers
 
-129.
+129\.
 
 Performance appraisal
 Division 2
 Conduct of Public School Teachers
 
-130.
+130\.
 
 Application of Division
 
-131.
+131\.
 
 General conduct
 
-132.
+132\.
 
 Duties of teachers
 
-133.
+133\.
 
 Rules of conduct
 
-134.
+134\.
 
 Specific acts of misconduct
 
-135.
+135\.
 
 Reporting of misconduct
 
-136.
+136\.
 
 Complaints against teachers
 
-137.
+137\.
 
 Procedure for terminating the appointment of a teacher
 
-138.
+138\.
 
 Accounting for property
 
-139.
+139\.
 
 Correspondence with the Minister
 Division 3
 Duties of Principals
 
-140.
+140\.
 
 General responsibilities of principals
 
-141.
+141\.
 
 Duties of deputy principals
 
@@ -358,81 +358,81 @@ TEACHERS’ CONDITIONS OF SERVICE
 Division 1
 Application
 
-142.
+142\.
 
 Application of Part
 
-143.
+143\.
 
 Application of other le gislation
 Division 2
 Leave
 
-144.
+144\.
 
 Teachers’ vacation period
 
-145.
+145\.
 
 Leave of absence
 
-146.
+146\.
 
 Reporting for duty
 
-147.
+147\.
 
 Pre-retirement leave
 
-148.
+148\.
 
 Study leave
 
-149.
+149\.
 
 Sick leave
 
-150.
+150\.
 
 Compassionate leave
 
-151.
+151\.
 
 Maternity leave
 Division 3
 Remuneration, Advances and Increments
 
-152.
+152\.
 
 Commencing salary
 
-153.
+153\.
 
 Time of payment of salaries
 
-154.
+154\.
 
 Acting allowances
 
-155.
+155\.
 
 Advances for medical treatment overseas
 
-156.
+156\.
 
 Advances for other purposes
 
-157.
+157\.
 
 Increments
 Division 4
 Payment of Pensions and Gratuities
 
-158.
+158\.
 
 Application of Division
 
-159.
+159\.
 
 Computation and authorisation of pensions and gratuities
 
@@ -440,31 +440,31 @@ Computation and authorisation of pensions and gratuities
 
 CURRICULUM AND ASSESSMENT OF STUDENTS
 
-160.
+160\.
 
 National curriculum
 
-161.
+161\.
 
 Core and foundation subjects
 
-162.
+162\.
 
 Assessment stages
 
-163.
+163\.
 
 Determination of attainment targets
 
-164.
+164\.
 
 Subject panels
 
-165.
+165\.
 
 Collective worship and religious education
 
-166.
+166\.
 
 Religious education in public schools
 
@@ -472,39 +472,39 @@ Religious education in public schools
 
 SCHOLARSHIPS AND OTHER FINANCIAL ASSISTANCE
 
-167.
+167\.
 
 Saint Vincent and the Grenadines Island Scholarships
 
-168.
+168\.
 
 Value of scholarships
 
-169.
+169\.
 
 Qualifications for scholarships
 
-170.
+170\.
 
 Award of scholarship
 
-171.
+171\.
 
 Entry at proposed institution
 
-172.
+172\.
 
 Forfeiture of scholarship
 
-173.
+173\.
 
 Scholar to sign undertaking
 
-174.
+174\.
 
 Award of grants and bursaries
 
-175.
+175\.
 
 Financial assistance to needy student
 
@@ -514,25 +514,25 @@ INSPECTION AND REVIEW OF THE EDUCATION SYSTEM
 Division 1
 
 Inspection of Educational Institutions
-176.
+176\.
 
 Inspections of educational institutions
 
-177.
+177\.
 
 Educational institutions to be opened for inspections and visit
 
-178.
+178\.
 
 Offences
 Division 2
 Review of the Education System
 
-179.
+179\.
 
 Appointment of Education Revie w Committee
 
-180.
+180\.
 
 Functions of Education Review Committee
 
@@ -540,31 +540,31 @@ Functions of Education Review Committee
 
 MISCELLANEOUS
 
-181.
+181\.
 
 Vendors on school premises
 
-182.
+182\.
 
 Use of premises of educational institution
 
-183.
+183\.
 
 Prohibition of sale of alcoholic beverages or tobacco
 
-184.
+184\.
 
 Loitering etc. on premises of educational institution
 
-185.
+185\.
 
 Prosecutions
 
-186.
+186\.
 
 Regulations
 
-187.
+187\.
 
 Repeals and savings
 
@@ -4044,7 +4044,7 @@ Clerk of the House of Assembly
 
 day of
 
-2005.
+2005\.
 
 OBJECTS AND REASONS
 This Bill seeks to make provision for the delivery of educational services in St. Vincent

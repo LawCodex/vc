@@ -537,11 +537,11 @@ Nature of Business
 Particulars of Change
 
 1\. Name of Business
-2.
+2\.
 
-3.
-4.
-5.
+3\.
+4\.
+5\.
 
 ..................................................
 ..................................................
@@ -763,7 +763,7 @@ Clerk of the House of Assembly
 
 day of
 
-2007.
+2007\.
 
 OBJECTS AND REASONS
 The object of this Bill is to facilitate growth in the small business sector by providing

@@ -14,58 +14,27 @@ THE PERMITTED USE OF CANNABIS FOR
 RELIGIOUS PURPOSES ACT
 (ACT
 of 2018)
-ARRANGEMENT OF CLAUSES
+
+## ARRANGEMENT OF CLAUSES
+
 Short title and commencement.
-
-### 2.
-
-Interpretation.
-
-### 3.
-
-Permitted use of Cannabis for religious purposes.
-
-### 4.
-
-Application for designation by the Minister.
-
-### 5.
-
-Cultivation of Cannabis by a religious body.
-
-### 6.
-
-Revocation of Order.
-
-### 7.
-
-Prohibition of importation of cannabis.
-
-### 8.
-
-Possession of cannabis authorized for religious use.
-
-### 9.
-
-Permitted use of cannabis only at a place of worship or
+2\. Interpretation.
+3\. Permitted use of Cannabis for religious purposes.
+4\. Application for designation by the Minister.
+5\. Cultivation of Cannabis by a religious body.
+6\. Revocation of Order.
+7\. Prohibition of importation of cannabis.
+8\. Possession of cannabis authorized for religious use.
+9\. Permitted use of cannabis only at a place of worship or
 at exempt event.
+10\. Declaration of exempt event
+11\. Prohibition of use of cannabis by minors.
+12\. Issue of guidelines by Minister.
+13\. Regulations.
 
-### 10.
+---
 
-Declaration of exempt event
-
-### 11.
-
-Prohibition of use of cannabis by minors.
-
-### 12.
-
-Issue of guidelines by Minister.
-
-### 13.
-
-Regulations.
-1.
+### 1.
 
 The Permitted Use of Cannabis for Religious Purposes
 Bill, 2018
@@ -86,10 +55,13 @@ This Act may be cited as the Permitted Use of Cannabis
 for Religious Purposes Act, 2018 and shall come into operation
 on such day to be appointed by the Minister by notice published
 in the Gazette.
-1.
+1\.
 
 Interpretation.
-2\. (1)
+
+### 2.
+
+(1)
 In this Act, unless the context otherwise requires“cannabis” has the meaning assigned to it in the Drugs
 (Prevention of Misuse) Act;
 
@@ -119,7 +91,10 @@ unlawful, the cultivation, possession, supply and use of
 cannabis in accordance with the provisions of this Act or
 Regulations made pursuant to this Act.
 Permitted use of Cannabis for religious purposes.
-3.(1) Subject to an Order made by the Minister under section
+
+### 3.
+
+(1) Subject to an Order made by the Minister under section
 4 and except as otherwise provided for under this Act, a
 person who is an adherent of a religious body, including, but
 not limited to, the Rastafarian faith, or an organization
@@ -155,7 +130,10 @@ prosecuting a person for a relevant offence under that Act or
 
 any other relevant enactment.
 Application for designation by Minister
-4\. (1) Pursuant to section 3, a person who is member of a
+
+### 4.
+
+(1) Pursuant to section 3, a person who is member of a
 religious body which proposes to use cannabis for religious
 purposes, as a sacrament in adherence to a religious practice
 of the religious body, shall apply to the Minister, in the
@@ -195,7 +173,10 @@ pursuant to section 10, at an event declared by Order
 of the Minister to be an exempt event for the purposes
 of this Act.
 Cultivation of cannabis by a religious body
-5\. Only the prescribed amount of cannabis shall be cultivated
+
+### 5.
+
+Only the prescribed amount of cannabis shall be cultivated
 by a religious body in the prescribed manner and the lands
 upon which the cannabis is cultivated shall be subject to such
 inspections, as the Minister may deem necessary, so as to
@@ -203,7 +184,10 @@ inspections, as the Minister may deem necessary, so as to
 ensure compliance with the provisions of this Act or
 regulations made pursuant to this Act.
 Revocation of Order
-6\. (1) The Minister may revoke an Order made under this
+
+### 6.
+
+(1) The Minister may revoke an Order made under this
 Act if any of the conditions of the Order or the provisions of
 this Act is contravened by the members the religious body.
 (2) Where an Order is revoked pursuant to subsection (2), the
@@ -211,10 +195,16 @@ Minister may order that all cannabis that is cultivated
 cultivated by the religious body shall be seized and destroyed
 by the Authority.
 Prohibition of importation of cannabis.
-7\. No person shall import cannabis into St. Vincent and the
+
+### 7.
+
+No person shall import cannabis into St. Vincent and the
 Grenadines for religious purposes.
 Possession of cannabis authorised for religious use.
-8\. The possession of cannabis by any person who is an
+
+### 8.
+
+The possession of cannabis by any person who is an
 adherent of a religious faith, at a place worship or, pursuant to
 section 10, at an event declared by order of the Minister, to be
 an exempt event for the purposes of this Act, is hereby
@@ -227,7 +217,10 @@ as may be prescribed.
 
 Use of cannabis only at place of worship or at exempt
 event
-9\. (1) The use of cannabis by any person under this Act shall
+
+### 9.
+
+(1) The use of cannabis by any person under this Act shall
 only be at and in relation to, a place of worship or, pursuant
 to section 10, an event declared by Order of the Minister to be
 an exempt event for the purposes of this Act.
@@ -236,7 +229,10 @@ offence and is liable on summary conviction to a fine not
 exceeding fifty thousand dollars or to a term of imprisonment
 not exceeding six months or to both a fine and imprisonment.
 Declaration of exempt event
-10\. (1) The Minister may, by Order, declare an event to be an
+
+### 10.
+
+(1) The Minister may, by Order, declare an event to be an
 exempt event for the purposes of this Act, if he is satisfied
 that the event is(a) promoted or sponsored by a person who is an
 adherent of a prescribed religious body; and
@@ -251,17 +247,26 @@ which is possessed, supplied or used at the exempt event in
 such amount and under such conditions as are specified in the
 Order.
 Prohibition of use of cannabis by minors.
-11\. (1) No person shall permit a minor to use cannabis at a
+
+### 11.
+
+(1) No person shall permit a minor to use cannabis at a
 place of worship or at an exempt event.
 (2) A person who contravenes subsection (1) commits a
 summary offence and is liable on conviction to a fine not
 exceeding fifty thousand dollars or to a term of imprisonment
 not exceeding six months.
 Issuance of guidelines by the Minister
-12\. The Minister may, by Notice published in the Gazette,
+
+### 12.
+
+The Minister may, by Notice published in the Gazette,
 issue guidelines to assist in the effective operation of this Act.
 Regulations.
-13\. The Minister shall make Regulations for or with respect
+
+### 13.
+
+The Minister shall make Regulations for or with respect
 to any matter that, by this Act, is required or permitted to be
 prescribed or that is necessary or convenient to be prescribed
 for carrying out or giving effect to this Act.
